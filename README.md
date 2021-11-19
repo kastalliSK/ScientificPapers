@@ -1,10 +1,10 @@
 # ScientificPapers
-This paper presents a pipeline for the identification of the structureof scientific papers. 
-Large journals share explicitly their guidelinesso participants know exactly how to structure their publicationsbut in most of the medium size conference 
+This project presents a pipeline for the identification of the structure of scientific papers. 
+Large journals share explicitly their guidelines so participants know exactly how to structure their publicationsbut in most of the medium size conference 
 these guidelines arenot explicitly described so participants usually go with the wayprevious work has been presented.
-The idea of this paper is to build a pipeline to retrieve effectiveand valid information from scientific articles belonging to different small size conferences. 
-And our goal is to find their guidelines. Theprocess of identification of the structure of scientific articles inthis work starts with data acquisition, 
-data preprocessing, feature extraction and finally evaluation of the features.A statistical analysis over the quantitative features shows somesimilarity 
+The idea of this paper is to build a pipeline to retrieve effective and valid information from scientific articles belonging to different small size conferences. 
+The goal is to find their guidelines. The process of identification of the structure of scientific articles in this work starts with data acquisition, 
+data preprocessing, feature extraction and finally evaluation of the features. A statistical analysis over the quantitative features shows some similarity 
 across conferences and also identifies the features that distinguish them from each other. At the end, the paper uses a classification algorithm that aims 
 to evaluate the importance of the extracted features in the classification of papers in the right conferences which give us the most important characteristics of aconference.
 ### KEYWORDS :
